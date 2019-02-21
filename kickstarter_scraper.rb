@@ -1,4 +1,4 @@
-  # require "libraries/modules" here
+  # require "libraries/modules" here => nokogiri
 require 'nokogiri'
 def create_project_hash
   projects = {}
